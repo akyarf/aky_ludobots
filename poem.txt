@@ -2,6 +2,7 @@ The rainbow
 a
 b
 c
+che
 d
 e
 f
